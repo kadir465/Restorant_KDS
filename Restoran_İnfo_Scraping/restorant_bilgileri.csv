@@ -1,0 +1,250 @@
+﻿Restoran Adı,Puan,degerlendirme,min siparis,mutfak,fiyat aralıgı kod,Teslimat Süresi Dk
+hot döner (ayazağa),4.0,1100.0,150,döner,2.0,40.0
+paşa döner (sarıyer merkez),4.0,650.0,1.000,döner,2.0,60.0
+maydonoz döner ,9.3,700.0,650,döner,2.0,50.0
+bi̇ döner hatay usülü (sultan selim),6.3,20.0,300,döner,2.0,30.0
+döner bank maslak sanayi (maslak),5.4,750.0,80,döner,2.0,20.0
+dönerken uğra (ayazağa),3.4,8.0,160,döner,2.0,40.0
+pizza bulls (reşitpaşa),3.4,6700.0,200,pizza,2.0,60.0
+maslak dönercisi (maslak),4.86,4756.11,80,döner,2.0,25.0
+löpsss döner (maslak),9.3,150.0,80,döner,2.0,30.0
+little caesars pizza (maslak),4.0,1100.0,300,pizza,2.0,30.0
+şah antep kebap dürüm izgara (sultan selim),4.4,20.0,650,kebap,2.0,35.0
+mado (maslak),2.3,400.0,120,döner,2.0,40.0
+mançurya (ferahevler),2.4,250.0,600,kebap ,2.0,55.0
+beğendik kebap & izgara (huzur),9.3,100.0,455,döner,2.0,40.0
+adıyaman döner sofrası (gülbahar),6.4,10.0,700,döner,2.0,45.0
+i̇stanbul lahmacun ve kebap (mecidiyeköy),5.0,10.0,685,kebap,2.0,40.0
+i̇kamet döner (pınar),4.86,4756.11,1.000,döner,2.0,35.0
+etiler marmaris (ayazağa),5.4,2400.0,400,kebap ,2.0,70.0
+cızbız sucuk & köfte (ayazağa),4.4,2900.0,150,kebap ,2.0,40.0
+la pollos (pınar),3.4,20.0,500,döner,2.0,30.0
+öz doydum kebap (i̇stinye),4.4,600.0,120,kebap,2.0,30.0
+antiochia sos döner,8.4,1300.0,700,döner,2.0,30.0
+murat usta (pınar),2.4,950.0,250,döner,2.0,50.0
+sr döner (sultan selim),5.4,6300.0,160,döner,2.0,40.0
+döner bank (huzur),3.4,10.0,160,döner,2.0,40.0
+dürüm dürüm (sultan selim),3.4,10.0,160,döner,2.0,45.0
+as öz gurrme kebap (levent),4.0,1700.0,120,kebap ,2.0,45.0
+lezzet köfte & tavuk izgara (huzur),4.86,4756.11,160,kebap ,2.0,45.0
+köşem döner ve büfe (çeliktepe),8.4,150.0,500,döner,2.0,40.0
+hot döner (rumeli hisarı),5.4,3400.0,1.200,döner,2.0,50.0
+çıtır büfe (reşitpaşa),3.4,3900.0,450,döner,2.0,45.0
+döner company (maslak),2.4,40.0,150,döner,2.0,30.0
+semazen döner (seyrantepe),5.4,150.0,350,döner,2.0,25.0
+barış büfe (etiler),4.4,1000.0,2.500,döner,2.0,50.0
+46 zurna dürüm (çeliktepe),9.3,4000.0,700,döner,2.0,30.0
+paşa döner (i̇stinye),3.4,1500.0,80,döner,2.0,30.0
+döner mi döner (ayazağa),8.4,5.0,150,döner,2.0,30.0
+sadıkoğlu döner ve taş fırın (seyrantepe),3.4,500.0,800,döner,2.0,25.0
+öncü döner (çeliktepe),8.3,1300.0,200,döner,2.0,30.0
+oba döner (seyrantepe),4.86,4756.11,2.200,döner,2.0,55.0
+etibol döner & lahmacun (merkez),5.4,1300.0,1.500,döner,2.0,35.0
+usta dönerci (huzur),4.86,4756.11,170,döner,2.0,35.0
+i̇kram döner (ayazağa),6.4,4000.0,100,döner,2.0,30.0
+dürümcü sedat usta (maslak),2.3,750.0,120,döner,2.0,35.0
+dönerci ali (pınar),9.3,60.0,750,döner,2.0,50.0
+çınar büfe (pınar),4.86,4756.11,80,döner,2.0,30.0
+günaydın köfte & döner (maslak),3.4,1300.0,350,döner,2.0,55.0
+envai karaköy lokantası (maslak),4.86,4756.11,120,döner,2.0,35.0
+dönerbey (huzur),4.4,600.0,750,döner,2.0,55.0
+döner ağacı maslak (maslak),6.4,150.0,500,döner,2.0,30.0
+pizza coco pazzo,6.4,500.0,900,pizza,2.0,32.5
+pizza bulls,1.4,4000.0,299.0000000,pizza,2.0,37.5
+domino's pizza,7.3,35000.0,300,pizza,2.0,27.5
+elif pizza,5.3,39.0,300,pizza,2.0,20.0
+little caesars pizza,6.3,45000.0,300,pizza,2.0,32.5
+hero's pizza,1.4,1000.0,200,pizza,2.0,32.5
+limos pizza,4.4,15000.0,700,pizza,2.0,32.5
+pizzalazza (ayazağa),2.4,15000.0,500,pizza,3.0,32.5
+pizzam express,2.3,100.0,300,pizza,2.0,25.0
+pizza roma,4.4,100.0,700,pizza,2.0,32.5
+pasaport pizza,7.2,100.0,300,pizza,3.0,35.0
+pizza coo,4.0,71.0,300,pizza,2.0,20.0
+pizza station,3.0,3000.0,300,pizza,2.0,20.0
+pizza darts,8.4,2000.0,1.500,pizza,3.0,32.5
+pizza academy,4.4,15.0,110,pizza,2.0,32.5
+express pide pizza,2.4,100.0,50,pizza,2.0,50.0
+pizza dart,8.4,100.0,1.500,pizza,3.0,32.5
+fast pizza,4.3,100.0,3.000,pizza,2.0,50.0
+pizza bianca italiano,8.4,19.0,1.500,pizza,2.0,37.5
+pizza moncho,3.3,20000.0,1.500,pizza,3.0,45.0
+merletto pizza,5.0,9.0,0,pizza,2.0,60.0
+pizzalazza,4.4,85.0,700,pizza,2.0,27.5
+pizza da pizza - pitza mia,8.3,50.0,500,pizza,3.0,60.0
+pizza nella italiano,5.3,33.0,600,pizza,3.0,32.5
+aleo very italiano,3.4,54.0,0,pizza,3.0,32.5
+olive's pizzeria,1.3,10000.0,1.199,pizza,3.0,50.0
+pizza elito,4.0,71.0,300,pizza,1.0,35.0
+pizza v,1.4,100.0,0,pizza,2.0,60.0
+öz hacıoğlu lezzetleri,2.4,62.0,1.200,kebap,2.0,37.5
+pizza getto,5.3,11.0,600,pizza,3.0,27.5
+ristorante umberto pizzeria,8.4,61.0,50,pizza,2.0,22.5
+çılgın burger,4.86,4756.11,600,döner,2.0,60.0
+dama kebap (seyrantepe),2.4,500.0,400,kebap ,2.0,37.5
+napoli pizza,4.86,4756.11,300,pizza,2.0,30.0
+etiler marmaris,3.4,70000.0,200,döner,2.0,27.5
+reyhan pizza,8.3,50.0,100,pizza,1.0,22.5
+asyam pizza,8.4,32.0,0,pizza,2.0,65.0
+casalingo pizza,4.86,4756.11,750,pizza,2.0,60.0
+öz mevlana pide,5.4,62.0,70,kebap,1.0,32.5
+şişhane ciğer & kebap (huzur),4.4,53.0,100,kebap ,2.0,50.0
+öz gaziantep pide lahmacun,7.4,500.0,100,kebap,3.0,45.0
+kardelen kebap,9.3,100.0,200,kebap ,1.0,55.0
+anteplim pide & lahmacun ve kebap (ayazağa),3.0,8.0,300,kebap ,1.0,25.0
+i̇sot çiğkofte sofrasi,5.0,11.0,30,döner,2.0,60.0
+hatay kebap,3.4,63.0,100,kebap ,1.0,22.5
+has antepli kebap (ayazağa),4.86,4756.11,0,kebap,2.0,32.5
+as öz adıyaman,6.4,100.0,110,döner,1.0,32.5
+antakya çıtır pide & lahmacun,4.4,100.0,250,kebap,3.0,55.0
+asır pizza (i̇zzet paşa),8.4,32.0,0,pizza,2.0,60.0
+öz hacıoğlu lezzetleri,2.4,62.0,1.200,kebap,2.0,37.5
+dönerist,3.4,30000.0,500,döner,2.0,27.5
+frango döner & sauce,1.3,100.0,300,döner,2.0,17.5
+dönerci celal usta,4.4,40000.0,300,döner,2.0,32.5
+beysos döner,5.3,100.0,300,döner,2.0,17.5
+maydonoz döner (ayazağa),1.4,1000.0,300,döner,2.0,22.5
+kartal közde döner,6.4,10000.0,350,döner,2.0,22.5
+bereket döner,3.3,4000.0,300,döner,2.0,17.5
+assos döner,7.4,10000.0,200,döner,2.0,32.5
+hot döner,2.3,55000.0,300,döner,2.0,27.5
+döner plus,6.4,35000.0,4.000,döner,2.0,27.5
+hacıbaba hatay usulü döner,2.4,2000.0,300,döner,2.0,17.5
+dönerci serkan usta,4.0,10000.0,300,döner,2.0,27.5
+adembey döner,4.4,10000.0,1.000,döner,2.0,27.5
+kartal közde döner (2. kayıt),2.4,30000.0,750,döner,2.0,32.5
+mogaf hatay döner,8.3,1000.0,300,döner,2.0,17.5
+heybet döner express (gayrettepe),2.4,100.0,300,döner,2.0,22.5
+46 zurna dürüm,4.3,1000.0,300,döner,2.0,17.5
+dönerci kadir usta,5.3,100.0,300,döner,2.0,32.5
+yaprak dönercisi,5.3,500.0,300,döner,2.0,22.5
+dönerci celal usta (2. kayıt),1.4,100.0,400,döner,2.0,32.5
+etiler çardak döner,3.4,1000.0,300,döner,2.0,22.5
+bursa garaj kebap,3.4,5000.0,550,kebap ,2.0,32.5
+meydan çiftlik döner,6.4,10000.0,300,döner,2.0,32.5
+acaip soslu döner,3.4,1000.0,250,döner,2.0,27.5
+hacı baba hatay usulü döner,2.4,3000.0,300,döner,2.0,22.5
+paşa döner,2.3,100.0,300,döner,2.0,17.5
+dürüm molası hatay usulü döner,3.4,2000.0,300,döner,2.0,22.5
+usta dönerci,8.2,1000.0,300,kebap ,2.0,22.5
+dönerci cengiz usta,5.4,100.0,2.500,döner,2.0,37.5
+meşhur pideli döner,3.4,500.0,300,döner,2.0,17.5
+antidos otantik döner,1.3,500.0,300,döner,2.0,17.5
+kaya döner bomonti,3.4,100.0,300,döner,2.0,27.5
+beyoğlu halk döner,5.4,30000.0,500,döner,2.0,32.5
+kebo,1.4,500.0,300,döner,2.0,17.5
+döner evi,4.0,5000.0,300,döner,2.0,27.5
+etibeyaz döner,9.3,25000.0,300,döner,2.0,17.5
+dürüm molası merkez,1.4,2000.0,300,döner,2.0,17.5
+dürüm molası hatay usulü döner (3. kayıt),1.4,1000.0,300,döner,2.0,22.5
+öz hatay usulü döner & sulu yemek,4.86,4756.11,300,döner,2.0,17.5
+oba döner (seyrantepe),9.3,500.0,300,döner,2.0,22.5
+öz anteplim lahmacun (gültepe),9.3,100.0,300,kebap ,2.0,22.5
+pa döner,4.0,1000.0,300,döner,2.0,17.5
+mercan döner,8.2,100.0,300,döner,2.0,17.5
+hatay soslu döner,4.0,1000.0,150,döner,2.0,27.5
+burç döner,6.4,100.0,300,döner,2.0,27.5
+meşhur hatay dürümcüsü,4.4,1000.0,300,kebap ,2.0,27.5
+sr döner,7.3,2000.0,300,döner,2.0,22.5
+define büfe,1.4,4000.0,1.000,döner,2.0,32.5
+doysos hatay usulü döner,2.4,1000.0,300,döner,2.0,17.5
+reform çağın döneri,7.3,1000.0,300,döner,2.0,27.5
+kuzey köfte,8.4,2000.0,200,kebap,2.0,32.5
+etibeyaz döner (2. kayıt),1.4,45000.0,490,döner,2.0,27.5
+döner records,7.3,500.0,300,döner,2.0,32.5
+meşhur hatay dürümcüsü (2. kayıt),1.4,500.0,300,döner,2.0,17.5
+kızılkayalar hamburger,9.3,500.0,300,kebap,2.0,32.5
+mixsos,9.3,100.0,300,döner,2.0,37.5
+pilav üstü,5.0,4000.0,160,döner,2.0,27.5
+ess katik döner,6.3,58.0,300,döner,2.0,17.5
+bursa i̇skender,5.3,100.0,300,döner,2.0,22.5
+zengin döner,7.3,10000.0,300,döner,2.0,22.5
+dürümle,4.0,1000.0,300,kebap,2.0,22.5
+büfe de büfe,4.4,1000.0,350,döner,2.0,50.0
+frango döner & sauce (2. kayıt),2.3,1000.0,300,döner,2.0,32.5
+tasty food & coffee,7.4,21.0,300,döner,2.0,22.5
+usta dönercim,4.4,100.0,300,döner,2.0,27.5
+morgül büfe,2.4,3000.0,300,döner,2.0,32.5
+döner bank,1.3,24.0,300,döner,2.0,22.5
+koç & köşem büfe,8.3,25000.0,500,döner,2.0,37.5
+antiochia sos döner,4.86,4756.11,300,döner,2.0,22.5
+kaçkar büfe (i̇stinye),8.3,14.0,300,döner,2.0,27.5
+tadım sebzeli döner,3.4,15000.0,300,döner,2.0,27.5
+döndürüm,4.86,4756.11,300,döner,2.0,22.5
+hatay usulü döner molası,2.4,47.0,350,döner,2.0,32.5
+meşhur pideli döner,1.4,100.0,300,döner,2.0,17.5
+acı baba döner,4.3,51.0,300,döner,2.0,17.5
+sait i̇skender restorant (poligon),6.4,500.0,1.000,kebap ,2.0,45.0
+doysos hatay dürümcüsü,4.0,100.0,300,döner,2.0,27.5
+napolist pizza (maslak),4.4,35000.0,300,pizza,2.0,22.5
+seferbey döner & kebap (maslak),4.86,4756.11,300,kebap ,2.0,22.5
+öz dünya döner,4.4,5000.0,350,döner,2.0,27.5
+yusuf miran usta pizza (konaklar),7.3,1000.0,300,pizza,2.0,22.5
+oba döner & kavurma,3.4,35.0,300,döner,2.0,22.5
+hacı baba hatay usulü döner,8.3,89.0,300,döner,2.0,17.5
+fam burger & more (merkez),1.4,45000.0,180,kebap ,2.0,45.0
+gaziantep musa i̇skender kebap (ayazağa),2.4,2000.0,500,kebap ,2.0,32.5
+abi döner express,1.0,2000.0,300,döner,2.0,17.5
+express lahmacun & pide & kebap (gayrettepe),7.4,25000.0,400,kebap,2.0,50.0
+bafra pide pizza (ayazağa),5.3,100.0,300,döner,2.0,27.5
+ballı kapı döner & dürüm,5.4,35.0,300,döner,2.0,22.5
+dostlar urfa sofrası (gürsel),9.4,100.0,0,kebap ,2.0,37.5
+saray muhallebicisi 1935,1.4,25000.0,300,pizza,2.0,22.5
+efes döner i̇stanbul,7.3,62.0,300,döner,2.0,32.5
+abi kardeş pide lahmacun (mecidiyeköy),6.3,5000.0,300,kebap,2.0,22.5
+barley brasserie & lounge (huzur),3.3,9.0,300,pizza,2.0,27.5
+kebapçı etiler,4.4,1000.0,300,kebap ,2.0,27.5
+nefis pide pizza lahmacun (mecidiyeköy),5.3,3000.0,300,pizza,2.0,17.5
+şampiyon döner,2.4,500.0,150,döner,2.0,27.5
+köşem döner & büfe,4.86,4756.11,300,döner,2.0,17.5
+yeniyo döner,5.3,100.0,300,döner,2.0,27.5
+dönerci hasan usta,4.0,30.0,1.000,döner,2.0,37.5
+pizza coco pazzo,6.4,500.0,900,pizza,2.0,32.5
+pizza bulls,1.4,4000.0,300.0000000,pizza,2.0,37.5
+domino's pizza,7.3,35000.0,300,pizza,2.0,27.5
+elif pizza,5.3,39.0,300,pizza,2.0,20.0
+little caesars pizza,6.3,45000.0,300,pizza,2.0,32.5
+hero's pizza,1.4,1000.0,200,pizza,2.0,32.5
+limos pizza,4.4,15000.0,700,pizza,2.0,32.5
+milano pizza,2.4,15000.0,500,pizza,3.0,32.5
+pizzam express,2.3,100.0,300,pizza,2.0,25.0
+pizza roma,4.4,100.0,700,pizza,2.0,32.5
+pasaport pizza,7.2,100.0,300,pizza,3.0,35.0
+pizza coo,1.4,71.0,300,pizza,2.0,20.0
+pizza station,1.3,3000.0,300,pizza,2.0,20.0
+pizza darts,8.4,2000.0,1.500,pizza,3.0,32.5
+pizza mozz,4.4,15.0,110,pizza,2.0,32.5
+express pide pizza,2.4,100.0,50,pizza,2.0,50.0
+pizza dart,8.4,100.0,1.500,pizza,3.0,32.5
+fast pizza,4.3,100.0,3.000,pizza,2.0,50.0
+pizza bianca italiano,8.4,19.0,1.500,pizza,2.0,37.5
+etiler pizzeria,3.3,20000.0,1.500,pizza,3.0,45.0
+fermente pizza,1.5,9.0,0,pizza,2.0,60.0
+wood fire pizza,4.4,85.0,700,pizza,2.0,27.5
+sbarro pizza,8.3,50.0,500,pizza,3.0,60.0
+danilo's pizza,5.3,33.0,600,pizza,3.0,32.5
+aleo very italiano,3.4,54.0,0,pizza,3.0,32.5
+mh pizza & döner,1.3,10000.0,1.199,pizza,3.0,50.0
+just pizza,1.4,71.0,300,pizza,1.0,35.0
+pizzeria ulus,1.4,100.0,0,pizza,2.0,60.0
+abovv pizza,8.3,100.0,400,pizza,1.0,37.5
+pizza wall,5.3,11.0,600,pizza,3.0,27.5
+my secret pizza,8.4,61.0,50,pizza,2.0,22.5
+çılgın burger,4.86,4756.11,600,döner,2.0,60.0
+ege'den,2.4,500.0,400,kebap ,2.0,37.5
+napoli pizza,4.86,4756.11,300,pizza,2.0,30.0
+white pizza by serhat doğramacı (maslak),3.4,70000.0,200,döner,2.0,27.5
+piccola pizzeria,8.3,50.0,100,pizza,1.0,22.5
+asyam pizza,8.4,32.0,0,pizza,2.0,65.0
+pizza sando,4.86,4756.11,750,pizza,2.0,60.0
+urfa kürek pide lahmacun (çeliktepe),5.4,62.0,70,kebap,1.0,32.5
+şahane lahmacun & kebap,4.4,53.0,100,kebap,2.0,50.0
+the upper crust pizza (maslak),7.4,500.0,100,pizza,3.0,45.0
+kardelen kebap,9.3,100.0,200,kebap,1.0,55.0
+elif pizza & tandır diyarı,1.3,8.0,300,kebap,1.0,25.0
+i̇sot çiğkofte sofrasi,5.0,11.0,30,döner,2.0,60.0
+dürüm molası hatay usulü döner,3.4,63.0,100,kebap ,1.0,22.5
+4 mevsim salad,4.86,4756.11,0,kebap,2.0,32.5
+as öz adıyaman,6.4,100.0,110,döner,1.0,32.5
+antakya çıtır pide & lahmacun,4.4,100.0,250,döner,3.0,55.0
+raffaele pizza (huzur),8.4,32.0,0,pizza,2.0,60.0
